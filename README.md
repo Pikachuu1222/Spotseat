@@ -1,6 +1,7 @@
 # Spotseat
 
 This project uses infrared thermal imaging and vibration feedback to help visually impaired individuals locate empty seats on public transportation. The system is portable, power-efficient, and responsive, making it ideal for integration into smart canes or wearable assistive technologies to improve accessibility and safety during travel.
+
 ---
 
 **Help visually impaired users locate empty seats on public transport using infrared and vibration feedback.**
