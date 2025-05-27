@@ -4,7 +4,6 @@ This project uses infrared thermal imaging and vibration feedback to help visual
 
 The `thermal_seat_finder.py` script continuously reads thermal data frames from an MLX90640 infrared sensor over UART, verifies each frame’s integrity via checksum, and converts raw readings into a temperature map. 
 
----
 
 ## Features
 
