@@ -13,7 +13,6 @@ The `thermal_seat_finder.py` script continuously reads thermal data frames from 
 - **Live display** of thermal map on an LCD for debugging
 - **Lightweight & low-power** design suitable for wearable assistive devices
 
----
 
 ## Hardware Requirements
 
@@ -24,15 +23,12 @@ The `thermal_seat_finder.py` script continuously reads thermal data frames from 
 - **Power supply** (battery pack or 5 V USB)
 - **Wires, jumper cables, and prototyping board**
 
----
 
 ## Software Dependencies
 
 - [MaixPy firmware](https://github.com/sipeed/MaixPy) (for K210)
 - Python modules (built into MaixPy):  
   `lcd`, `image`, `sensor`, `time`, `fpioa_manager`, `machine.UART`, `gc`, `Maix.GPIO`
-
----
 
 ## Wiring
 
@@ -43,7 +39,6 @@ The `thermal_seat_finder.py` script continuously reads thermal data frames from 
 3. **LCD → SPI pins** (consult your LCD’s datasheet)  
 4. **Power** → 5 V and GND to sensor, LCD, motor driver
 
----
 
 ## Installation
 
